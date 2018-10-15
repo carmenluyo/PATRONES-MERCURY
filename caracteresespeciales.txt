@@ -1,0 +1,22 @@
+Á -> &Aacute;
+É -> &Eacute;
+Í -> &Iacute;
+Ó -> &Oacute;
+Ú -> &Uacute;
+á -> &aacute;
+é -> &eacute;
+í -> &iacute;
+ó -> &oacute;
+ú -> &uacute;
+ñ -> &ntilde;
+Ñ -> &Ntilde;
+¿ -> &iquest;
+¡ -> &iexcl;
+
+Pasos para crear un zip:
+Cambiar el alt del banner principal por el titular
+Revisar la estructura del banner principal compararlo con los patrones
+Verificar que el icono de tarjeta en el cierre verde se alinea a la izquierda solo en movil sino esta revisar los patrones
+Reemplazar los caracteres especiales
+Eliminar imagenes que no se utilicen
+
